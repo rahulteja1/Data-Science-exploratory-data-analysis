@@ -5,7 +5,7 @@ Each lab exercise includes a Jupyter notebook with step-by-step instructions, co
 
 Libraries Used
 
-*Matplotlib: A data visualization library for creating various types of charts and graphs.
+Matplotlib: A data visualization library for creating various types of charts and graphs.
 
 Pandas: A library for data manipulation and analysis.
 
