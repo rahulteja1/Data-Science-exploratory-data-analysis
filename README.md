@@ -1,7 +1,7 @@
 # Data-Science-exploratory-data-analysis
 This repository contains a collection of lab exercises focused on exploratory data analysis using popular Python libraries including Matplotlib, Pandas, and NumPy. The labs also cover data processing, cleaning, visualization, machine learning, SQL, and web scraping.
 
-Each lab exercise includes a Jupyter notebook with step-by-step instructions, code examples, and output visualizations. The labs are designed to build on each other, so we recommend completing them in order.
+Each lab exercise includes a Jupyter notebook with step-by-step instructions, code examples, and output visualizations. The labs are designed to build on each other.
 
 Libraries Used
 
